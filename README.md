@@ -71,3 +71,8 @@ https://projetsdiy.fr/esp8266-web-serveur-developpement-rapide-code-htmljs-node-
   
   * Récupère le temps depuis un serveur de temps NTP. Pour en savoir plus, lisez <a href="https://projetsdiy.fr/esp8266-web-serveur-partie3-heure-internet-ntp-ntpclientlib/">ce tutoriel</a>
   
+<img align="center" src="https://github.com/projetsdiy/Fast-ESP8266-HTML-JS-development-with-Nodejs-Pug/blob/master/nodejs-esp8266-donnees-reelles.jpg" style="max-width:100%;">
+
+Licence : MIT
+
+Copyright : www.projetsdiy.fr and www.diyprojects.io
